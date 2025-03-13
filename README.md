@@ -1,5 +1,7 @@
 # Deploy Next.js Blog to EKS Demo
 
+블로그 기재용 Next.js EKS 배포 프로젝트
+
 A simple demo of deploying a full-stack blog application to EKS.
 Before you continue, be sure to install Terraform, kubectl, and eksctl,
 and view the pricing details for running an EKS cluster.
